@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinnercompleto</string>
+    <string name="hol">AGREGAR COLORES</string>
+    <string name="HELLO">AGREGAR COLOR</string>
+    <string name="LOL">MOSTRAR COLORES</string>
+    <string name="add">AGREGAR COLORES</string>
+    <string name="LOLO">ingrese nombre del color</string>
+    <string name="polo">AGREGAR</string>
+    <string name="del">COLORES REGISTRADOS</string>
+    <string name="QE">MENU PRINCIPAL</string>
+</resources>
